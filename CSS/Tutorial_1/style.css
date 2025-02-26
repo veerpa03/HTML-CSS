@@ -1,0 +1,23 @@
+h1{
+    color:rgba(255,130,0,0.5);
+    border: 2px solid black;
+}
+p{
+    color:#000ff0;
+}
+/* #heading{
+     color: aqua;             /*this is id */ 
+/* .heading{
+    color: blueviolet;                    
+    border: 5px solid black;             this is class
+} */
+
+/* span{
+    color: rebeccapurple;
+}
+h1{
+    color: rebeccapurple;
+} */
+/* *{
+    color: orange;
+} */
